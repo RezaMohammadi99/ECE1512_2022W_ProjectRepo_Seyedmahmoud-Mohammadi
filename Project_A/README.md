@@ -21,6 +21,8 @@ Under explanation,
   Exmaps, to create the explanation map comparisons
   
   I modified the drop rate average code to find increase rate and test my SHAP implementation
+  
+  
 
 For HMT go to Project_A/HMT.ipynb: 
 I wrote:
@@ -34,5 +36,7 @@ I wrote:
   Plot the Results, I changed to compare my implementation to Grad-CAM
   
   Drop rate calculation, I changed to get increase rate and compare the algorithms
+  
+  
   
 A copy of my SHAP implementation for both datasets can be found at Project_A/SHAP.ipynb
