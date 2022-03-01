@@ -3,7 +3,7 @@
 Where you can find my code:
 
 
-For MNIST-1D go to Project_A/MNIST1D.ipynb:
+# For MNIST-1D go to Project_A/MNIST1D.ipynb:
 
 I wrote:
 
@@ -24,7 +24,7 @@ Under explanation,
   
   
 
-For HMT go to Project_A/HMT.ipynb: 
+# For HMT go to Project_A/HMT.ipynb: 
 I wrote:
 
   Under explanation, plotting examples of classification
@@ -39,4 +39,4 @@ I wrote:
   
   
   
-A copy of my SHAP implementation for both datasets can be found at Project_A/SHAP.ipynb
+# A copy of my SHAP implementation for both datasets can be found at Project_A/SHAP.ipynb
