@@ -1,1 +1,13 @@
+#Project B
 
+# MNIST
+All the code for the MNIST section of my code is in Task1.ipynb
+I have included my trained models in mnist_models.zip
+
+# MHIST
+I trained the teacher in teacher_transfer_learning.ipynb
+I trained the student with knowledge distillation in transfer_learning_student_KD.ipynb
+I trained the student from scratch in transfer_learning_studentwithoutKD.ipynb
+I did all the evaluation metrics in Task2.ipynb
+
+My models for MHIST were too large to upload, they can be generated using the code.
